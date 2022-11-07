@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**pflaviuss/pflaviuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Flavius Popa</h1>
 <h3 align="center">I'm currently learning on theOdinProject, I've just finished the foundations part, and I'm currently following the fullstack Javascript part</h3>
@@ -32,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pflaviuss&" alt="pflaviuss" /></p>
 
--->
+
