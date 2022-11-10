@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pflavius123x@gmail.com**
 
-- ⚡ Fun fact **I'm learning code to make a career change**
+- ⚡ **LOVE TO LEARN SOMETHING NEW EVERYDAY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
